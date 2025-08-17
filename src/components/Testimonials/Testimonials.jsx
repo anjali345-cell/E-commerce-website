@@ -6,13 +6,13 @@ const TestimonialData = [
     id: 1,
     name: "Victor",
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
-    img: "https://picsum.photos/101/101",
+    img: "https://fastly.picsum.photos/id/1057/101/101.jpg?hmac=hNJrmnB3_XbrM4KjpvOZoaNlBNnDAdYehoIvE8-gZpI",
   },
   {
     id: 2,
     name: "Satya Nadella",
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
-    img: "https://picsum.photos/102/102",
+    img: "https://fastly.picsum.photos/id/802/102/102.jpg?hmac=KKSgDmefY4-rmMRUJGdnCqvuFWjF4gpt4IwB-obcNtM",
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ const TestimonialData = [
     id: 5,
     name: "Sachin Tendulkar",
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
-    img: "https://picsum.photos/103/103",
+    img: "https://fastly.picsum.photos/id/153/103/103.jpg?hmac=dhtEoKm4wWN2M7IJxaAd6L9KpmVAhP8BvtGOoecomlg",
   },
 ];
 

@@ -86,10 +86,10 @@ const Navbar = ({ handleOrderPopup }) => {
               <FaCartShopping className="text-xl text-white drop-shadow-sm cursor-pointer" />
             </button>
 
-            {/* Darkmode Switch */}
+            {/* Darkmode Switch
             <div>
               <DarkMode />
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
